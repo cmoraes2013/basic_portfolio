@@ -105,4 +105,33 @@ footer {
      height: 250px;
  }
 
- 
+h3{
+    position: absolute;
+    background: teal;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 83px 10px 83px;
+    bottom: 155px;
+    left: 226px;
+}
+
+h4{
+    position: absolute;
+    background: teal;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 83px 10px 83px;
+    bottom: 155px;
+    left: 491px;
+}
+
+h5{
+    position: absolute;
+    background: teal;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 103px 10px 103px;
+    left: 757px;
+    bottom: 148px;
+    font-size: medium;
+}
